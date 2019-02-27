@@ -2,6 +2,12 @@
 == Shengjun(Daniel) Zhang - Projects
 
 == Recent Projects 
+- *Nonlinear System Identification via Sparse Bayesian Learning.*
+~~~
+{}{img_left}{pendulum.png}{Photo}{200}{200}
+In this project, I mainly reimplemented the /Sparase Bayesian Learning Algorithm/, proposed in \[[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7094238 /A Sparse Bayesian Approach to The Identification of Nonlinear State-space Systems/]] and applied it to identify a pendulum model, also, I used a deep learning approach to verify the results.
+~~~
+
 - *Applying Q-Learning to a 4 $\times$ 4 Tic-Tac-Toe. \[[https://github.com/ShengjunZhang/EENG-5940-Q-Learning_TicTacToe/ Code]] \[[https://youtu.be/vwLyn7iPNuA Demo]]*
 ~~~
 {}{img_left}{ttt.png}{Photo}{200}{200}
