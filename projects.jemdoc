@@ -6,13 +6,13 @@
 - *Analyzing Distributed Optimization Algorithms via IQC.*
 ~~~
 {}{img_left}{fb.png}{Photo}{200}{150}
-We investigate the convergence rate of distributed push-pull based optimization algorithms, which are applied for a directed graph network. We present a unified framework based on integral quadratic constaints (IQCs) from robust control theory and formulate convergence analysis problems into a semidefinite program (SDP). Our method derives numerical upper bounds on convergence rates of the algorithms that we analyzed and improves the exsiting bounds. We illustrate the versastility of our proposed framework using several different existing distributed optimization algorithms. The framework that we discuss is a powerful tool for choosing algorithm. *The work has been accepted and will be published in the 15th IEEE International Conference on Control and Automation*.
+We investigate the convergence rate of distributed push-pull based optimization algorithms, which are applied for a directed graph network. We present a unified framework based on integral quadratic constaints (IQCs) from robust control theory and formulate convergence analysis problems into a semidefinite program (SDP). Our method derives numerical upper bounds on convergence rates of the algorithms that we analyzed and improves the exsiting bounds. We illustrate the versastility of our proposed framework using several different existing distributed optimization algorithms. The framework that we discuss is a powerful tool for choosing algorithm.
 ~~~
 
 - *Nonlinear System Identification via Sparse Bayesian Learning.*
 ~~~
 {}{img_left}{pendulum.png}{Photo}{200}{150}
-In this project, I mainly reimplemented the /Sparse Bayesian Learning Algorithm/, proposed in \[[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7094238 /A Sparse Bayesian Approach to The Identification of Nonlinear State-space Systems/]] and applied it to identify a pendulum model, also, I used a deep learning approach to verify the results.
+In this project, I mainly reimplemented the /Sparse Bayesian Learning Algorithm/, proposed in [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7094238 A Sparse Bayesian Approach to The Identification of Nonlinear State-space Systems] and applied it to identify a pendulum model, also, I used a deep learning approach to verify the results.
 ~~~
 
 - *Applying Q-Learning to a 4 $\times$ 4 Tic-Tac-Toe. \[[https://github.com/ShengjunZhang/EENG-5940-Q-Learning_TicTacToe/ Code]] \[[https://youtu.be/vwLyn7iPNuA Demo]]*
