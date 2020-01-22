@@ -54,16 +54,16 @@ body {
 }
 
 #layout-content {
-	padding-top: 0.0em;
-	padding-left: 1.0em;
-	padding-right: 1.0em;
-border: none;
-background: white;
-			text-align: left;
-			vertical-align: top;
-			min-width: 800px;
-			max-width: 800px;
-			width: 	   800px;
+		padding-top: 0.0em;
+		padding-left: 1.0em;
+		padding-right: 1.0em;
+		border: none;
+		background: white;
+		text-align: left;
+		vertical-align: top;
+		min-width: 800px;
+		max-width: 800px;
+		width: 	   800px;
 }
 
 #layout-menu a {
@@ -72,8 +72,8 @@ background: white;
 }
 
 tt {
-	/*background: #ffffee;*/
-	background: #ffcc33;
+	background: #ffffee;
+	/*background: #ffcc33;*/
 }
 
 pre, tt {
