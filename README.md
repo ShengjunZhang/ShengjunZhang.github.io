@@ -1,3 +1,3 @@
 # ShengjunZhang.github.io
 
-This is a personal website based on jemdoc+MathJax.
+This is Daniel Zhang's personal website based on jemdoc+MathJax.
