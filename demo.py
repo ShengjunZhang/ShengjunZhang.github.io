@@ -1,7 +1,7 @@
 import sys
 
 def dev():
-    print('dev mode')
+    print('Dev Mode')
 
 def default():
     print('Hello')
