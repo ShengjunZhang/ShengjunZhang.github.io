@@ -29,8 +29,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *30th International Joint Conference on Artificial Intelligence (In Submission)*
-publication_short: In *IJCAI 2021 (In Submission)*
+publication: In *60th IEEE Conference on Decision and Control (In Submission)*
+publication_short: In *CDC 2021 (In Submission)*
 
 abstract: A Reinforcement Learning (RL) agent interacts with the environment to learn a policy with high accumulated rewards through attempts and failures. However, RL suffers from its own trial-and-error learning nature, which results in an unstable learning process. In this paper, we investigate a commom phenomenon called rewards drop at the late-stage RL training session, where the rewards trajectory oscillates dramatically. In order to solve such a problem, we propose a novel rewards shaping technique named Variance Aware Rewards Smoothing (VAR). We show that the proposed method reduces the variance of rewards and mitigates the rewards drop problem without changing the formulation of the value function. Furthermore, the theoretical analysis of convergence of VAR is provided, which is derived from the γ-contraction operator and the fixed point attribute of the value function. Finally, the theoretical results are illustrated by extensive results on various benchmarks and advanced algorithms across different random seeds to demonstrate the effectiveness and the compatibility of VAR.
 
