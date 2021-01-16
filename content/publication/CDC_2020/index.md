@@ -49,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1109/CDC42340.2020.9304381'
 url_code: ''
 url_dataset: ''
 url_poster: ''
