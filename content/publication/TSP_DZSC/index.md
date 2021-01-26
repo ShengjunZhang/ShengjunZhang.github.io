@@ -29,7 +29,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Automatic Control (In Submission)*
+publication: In *IEEE Transactions on Signal Processing (In Submission)*
 publication_short: In *IEEE TSP (In Submission)*
 
 abstract: This paper investigates the stochastic distributed nonconvex optimiztion problem of minimizing a global cost function formed by the summation of $n$ local cost functions. We solve such a problem with involving zeroth-order (ZO) information exchange. In this paper, two distributed ZO algorithms are proposed. Agents sample their own local stochastic ZO oracle at two different points with an adaptive smoothing parameter.
