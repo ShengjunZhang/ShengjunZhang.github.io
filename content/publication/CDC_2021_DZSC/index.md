@@ -1,5 +1,5 @@
 ---
-title: "Distributed Zeroth-order Stochastic Coordinate Methods"
+title: "Convergence Analysis of Distributed Zeroth-order Stochastic Coordinate Methods Under Polyak--Lojasiewicz Condition"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
