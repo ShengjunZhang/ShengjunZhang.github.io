@@ -17,11 +17,11 @@ author_notes:
 - ""
 - ""
 
-date: "2020-10-26T00:00:00Z"
+date: "2021-01-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-10-26T00:00:00Z"
+publishDate: "2021-01-26T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,8 +30,8 @@ publishDate: "2020-10-26T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACTA AUTOMATICA SINICA (自动化学报) (Accepted)*
-publication_short: In *ACTA AUTOMATICA SINICA (自动化学报) (Accepted)*
+publication: In *ACTA AUTOMATICA SINICA (自动化学报) (To appear.)*
+publication_short: In *ACTA AUTOMATICA SINICA (自动化学报) (To appear.)*
 
 abstract: In this paper, we consider the distributed optimization problem, whose objective is to minimize a global cost function formed by a sum of local private cost functions,  by using local information exchange. In order to avoid continuous communication among agents and reduce communication overheads, we develop event-triggered distributed optimization algorithms for undirected connected graphs based on the proportional-integral control strategy. We show that the proposed algorithms are free of Zeno behavior, and asymptotically converge to one of global minimizers, if the local cost functions are convex and differentiable. Moreover, we show that the proposed algorithms exponentially converge to the unique global minimizer if in addition, the local cost functions have locally Lipschitz gradients, and the global cost function is restricted strongly convex with respect to the global minimizer. The theoretical results are illustrated by numerical simulations.
 
