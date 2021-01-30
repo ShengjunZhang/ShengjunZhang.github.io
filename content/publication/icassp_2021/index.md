@@ -26,8 +26,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Acoustics, Speech and Signal Processing (Under Review)*
-publication_short: In *ICASSP 2021 (Under Review)*
+publication:
+publication_short:
 
 abstract: This paper investigates the problem of sparse principal component analysis (SPCA), which is an extension of principal component analysis (PCA) for a sparser subspace of the original data. We propose a fully decentralized algorithm based on primal-dual technique to solve SPCA in a distributed manner. The proposed algorithm has the ability to handle massively large datasets stored in multiple machines. The proposed method is shown to converge to stationary solutions of SPCA. Numerical experiments are provided to demonstrate the efficacy of our distributed primal-dual approach.
 
