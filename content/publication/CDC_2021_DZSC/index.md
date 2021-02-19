@@ -1,5 +1,5 @@
 ---
-title: "Convergence Analysis of Distributed Zeroth-order Stochastic Coordinate Methods Under Polyak--Lojasiewicz Condition"
+title: "Convergence Analysis of Nonconvex Distributed Stochastic Zeroth-order Coordinate Method"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -32,7 +32,7 @@ publication_types: ["1"]
 publication: In *60th IEEE Conference on Decision and Control (In Submission)*
 publication_short: In *CDC 2021 (In Submission)*
 
-abstract: This paper investigates the stochastic distributed nonconvex optimiztion problem of minimizing a global cost function formed by the summation of $n$ local cost functions. We solve such a problem with involving zeroth-order (ZO) information exchange. In this paper, two distributed ZO algorithms are proposed. Agents sample their own local stochastic ZO oracle at two different points with an adaptive smoothing parameter.
+abstract: This paper investigates the stochastic distributed nonconvex optimiztion problem of minimizing a global cost function formed by the summation of $n$ local cost functions. We solve such a problem with involving zeroth-order (ZO) information exchange. In this paper, we propose a ZO distributed primal--dual coordinate method (ZODIAC) to solve the stochastic optimization problem. Agents approximate their own local stochastic ZO oracle along coordinates with an adaptive smoothing parameter. We show that the proposed algorithm achieves the convergence rate of $\mathcal{O}(\sqrt{p}/\sqrt{nT})$ for genernal nonconvex cost functions. We demonstrate the efficiency of proposed algorithms through numerical example in comparison with the existing state-of-the art centralized and distributed ZO algorithms.
 
 
 
