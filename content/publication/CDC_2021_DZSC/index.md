@@ -6,6 +6,7 @@ title: "Convergence Analysis of Nonconvex Distributed Stochastic Zeroth-order Co
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Shengjun Zhang
+- Yunlong Dong
 - Dong Xie
 - Lisha Yao
 - Colleen P. Bailey

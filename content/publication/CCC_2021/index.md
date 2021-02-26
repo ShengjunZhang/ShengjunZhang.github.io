@@ -1,39 +1,38 @@
 ---
-title: "Distributed Zeroth-order Stochastic Coordinate Methods"
+title: "Event-Triggered Proportional-Integral Algorithms for Distributed Optimization (Invited Session Extended Abstract)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Tao Yang
+- Lei Xu
+- Xinlei Yi
 - Shengjun Zhang
-- Yunlong Dong
-- Dong Xie
-- Lisha Yao
-- Colleen P. Bailey
-- Shengli Fu
+- Yuzhe Li
 
 # Author notes (optional)
 author_notes:
 - ""
 - ""
 
-date: "2021-12-14T00:00:00Z"
+date: "2021-02-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-02-26T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Signal Processing (In Submission)*
-publication_short: In *IEEE TSP (In Submission)*
+publication: In *40th Chinese Control Conference (Under Review.)*
+publication_short: In *CCC2021 (Under Review.)*
 
-abstract: This paper investigates the stochastic distributed nonconvex optimiztion problem of minimizing a global cost function formed by the summation of $n$ local cost functions. We solve such a problem with involving zeroth-order (ZO) information exchange. In this paper, two distributed ZO algorithms are proposed. Agents sample their own local stochastic ZO oracle at two different points with an adaptive smoothing parameter.
+abstract: In this paper, we develop event-triggered distributed optimization algorithms for undirected connected graphs based on the proportional-integral (PI) control strategy. We show that the proposed algorithms are free of Zeno behavior, and asymptotically converge to one of global minimizers, if the local cost functions are convex and differentiable. Moreover, we show that the proposed algorithms exponentially converge to the unique global minimizer if in addition, the local cost functions have locally Lipschitz gradients, and the global cost function is restricted strongly convex with respect to the global minimizer.
 
 
 
