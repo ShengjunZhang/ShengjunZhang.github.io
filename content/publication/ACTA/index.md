@@ -1,5 +1,5 @@
 ---
-title: "Event-triggered Based Distributed Optimization Algorithms (in Chinese)"
+title: "Event-triggered Distributed Optimization Algorithms (in Chinese)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
