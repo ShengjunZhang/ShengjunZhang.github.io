@@ -29,8 +29,8 @@ publishDate: "2021-02-26T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *40th Chinese Control Conference (Under Review)*
-publication_short: In *CCC2021 (Under Review)*
+publication: In *40th Chinese Control Conference*
+publication_short: In *CCC2021*
 
 abstract: In this paper, we develop event-triggered distributed optimization algorithms for undirected connected graphs based on the proportional-integral (PI) control strategy. We show that the proposed algorithms are free of Zeno behavior, and asymptotically converge to one of global minimizers, if the local cost functions are convex and differentiable. Moreover, we show that the proposed algorithms exponentially converge to the unique global minimizer if in addition, the local cost functions have locally Lipschitz gradients, and the global cost function is restricted strongly convex with respect to the global minimizer.
 
