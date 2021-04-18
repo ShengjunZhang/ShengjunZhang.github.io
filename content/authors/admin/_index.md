@@ -80,4 +80,4 @@ In 2018 summer, he was also fortunate to visit Dr. {{< staticref "https://yy311.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-{<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=-W8a-MoSUZwqwg9_jrY4YnghZz-EAtYlihiX4TZPSZQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>}
+<a href="https://clustrmaps.com/site/1bhdp" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=0e1633&w=a&t=n&d=-W8a-MoSUZwqwg9_jrY4YnghZz-EAtYlihiX4TZPSZQ&co=0b4975&ct=cdd4d9" /></a>
