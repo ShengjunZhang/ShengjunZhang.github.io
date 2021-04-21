@@ -23,11 +23,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication:
-publication_short:
+publication: In *55th Asilomar Conference on Signals, Systems, and Computers (Under Review)*
+publication_short: In *Asilomar (Under Review)*
 
 abstract: This paper investigates the problem of sparse principal component analysis (SPCA), which is an extension of principal component analysis (PCA) for a sparser subspace of the original data. We propose a fully decentralized algorithm based on primal-dual technique to solve SPCA in a distributed manner. The proposed algorithm has the ability to handle massively large datasets stored in multiple machines. The proposed method is shown to converge to stationary solutions of SPCA. Numerical experiments are provided to demonstrate the efficacy of our distributed primal-dual approach.
 
