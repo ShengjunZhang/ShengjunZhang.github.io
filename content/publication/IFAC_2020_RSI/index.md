@@ -17,7 +17,7 @@ author_notes:
 - ""
 
 date: "2020-07-11T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.ifacol.2020.12.383"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-07-11T00:00:00Z"
@@ -48,13 +48,13 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/1909.03282.pdf'
+url_pdf: 'https://doi.org/10.1016/j.ifacol.2020.12.383'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: 'ifac_2020_Slides.pdf'
-url_source: ''
+url_source: 'https://arxiv.org/pdf/1909.03282.pdf'
 url_video: ''
 
 # Featured image
