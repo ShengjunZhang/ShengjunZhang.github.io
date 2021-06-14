@@ -8,7 +8,6 @@ authors:
 - Xinlei Yi
 - Shengjun Zhang
 - Tao Yang
-- Tianyou Chai
 - Karl H. Johansson
 
 # Author notes (optional)
