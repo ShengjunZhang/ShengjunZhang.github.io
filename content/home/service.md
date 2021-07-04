@@ -23,6 +23,8 @@ Sometimes I am a volunteer teaching assistant.
 Journal Reviewer
 
 - [IEEE Transactions on Automatic Control](http://ieeecss.org/publication/transactions-automatic-control)
+- [IEEE Transactions on Transactions on Control of Network Systems](http://ieeecss.org/publication/transactions-control-network-systems)
+- [IEEE Transactions on Industrial Electronics](http://www.ieee-ies.org/pubs/transactions-on-industrial-electronics)
 - [Neurocomputing](https://www.journals.elsevier.com/neurocomputing)
 - [IET Control Theory & Applications](https://digital-library.theiet.org/content/journals/iet-cta)
 - [Automatica](https://www.journals.elsevier.com/automatica)
