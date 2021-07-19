@@ -23,6 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Research Scientist Intern
+    company: Pacific Northwest National Laboratory
+    company_url: 'https://www.pnnl.gov'
+    location: Richland, Washington, U.S
+    date_start: '2020-07-20'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Apply distributed optimization algorithms on power systems
+        * Investigate traffic flow problems
+
   - title: Research Assistant
     company: University of North Texas
     company_url: 'https://www.unt.edu/'
