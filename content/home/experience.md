@@ -27,7 +27,7 @@ experience:
     company: Pacific Northwest National Laboratory
     company_url: 'https://www.pnnl.gov'
     location: Richland, Washington, U.S
-    date_start: '2020-07-20'
+    date_start: '2021-07-20'
     date_end: ''
     description: |2-
         Responsibilities include:
