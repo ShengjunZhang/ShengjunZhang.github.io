@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Apply distributed optimization algorithms on power systems
-        * Investigate traffic flow problems
+        * Investigate transportation problems
 
   - title: Research Assistant
     company: University of North Texas
