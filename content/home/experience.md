@@ -40,7 +40,7 @@ experience:
     company_url: 'https://www.unt.edu/'
     location: Denton, Texas, U.S
     date_start: '2018-08-20'
-    date_end: ''
+    date_end: '2021-07-20'
     description: |2-
         Responsibilities include:
         
