@@ -76,6 +76,7 @@ Before coming to UNT, he received a Master's degree in Electrical Engineering at
 
 In 2018 summer, he was also fortunate to visit Dr. {{< staticref "https://yy311.github.io/bio.html" "newtab" >}}Ye Yuan{{< /staticref >}}'s group at {{< staticref "http://aia.hust.edu.cn/" "newtab" >}}Huazhong University of Science and Technology{{< /staticref >}}, working on accelerating distributed optimization of multi-agent systems.
 
+Fun fact, my Erdős number is 3 through {{< staticref "https://people.kth.se/~kallej/index.html" "newtab" >}}Karl H. Johansson{{< /staticref >}} and {{< staticref "https://en.wikipedia.org/wiki/B%C3%A9la_Bollob%C3%A1s" "newtab" >}}Béla Bollobás{{< /staticref >}}.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
