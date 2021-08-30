@@ -27,8 +27,8 @@ experience:
     company: Pacific Northwest National Laboratory
     company_url: 'https://www.pnnl.gov'
     location: Richland, Washington, U.S
-    date_start: '2021-07-20'
-    date_end: ''
+    date_start: '2021-06-20'
+    date_end: '2021-08-20'
     description: |2-
         Responsibilities include:
         
@@ -40,7 +40,7 @@ experience:
     company_url: 'https://www.unt.edu/'
     location: Denton, Texas, U.S
     date_start: '2018-08-20'
-    date_end: '2021-07-20'
+    date_end: '2021-06-20'
     description: |2-
         Responsibilities include:
         

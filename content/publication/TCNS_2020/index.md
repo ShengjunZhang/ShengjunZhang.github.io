@@ -29,8 +29,8 @@ publishDate: "2020-10-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Control of Network Systems (Under Review)*
-publication_short: In *IEEE TCNS (Under Review)*
+publication: In *IEEE Transactions on Control of Network Systems (Conditionally accepted)*
+publication_short: In *IEEE TCNS (Conditionally accepted)*
 
 abstract: In this paper, we consider distributed nonconvex optimization over an undirected connected network. Each agent can only access to its own local nonconvex cost function and all agents collaborate to minimize the sum of   these functions by using local information exchange. We first propose a novel distributed alternating direction method of multipliers (ADMM) algorithm. We show that the proposed algorithm sublinearly converges to a stationary point if each local cost function is smooth and the algorithm parameters are chosen appropriately. We also show that the proposed algorithm linearly converges to a global optimum under an additional condition that the global cost function satisfies the Polyak--{\L}ojasiewicz condition. We then propose a distributed linearized ADMM (L-ADMM) algorithm, derived from the proposed ADMM algorithm by linearizing the local cost function at each iteration. We show that the L-ADMM algorithm has the same convergence properties as the ADMM algorithm under the same conditions. Numerical simulations are included to verify the correctness and efficiency of the proposed algorithms.
 
