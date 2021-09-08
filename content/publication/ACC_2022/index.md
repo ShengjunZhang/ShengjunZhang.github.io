@@ -1,19 +1,19 @@
 ---
-title: "A Primal-Dual Algorithm for Distributed Sparse Principal Component Analysis"
+title: "Accelerated Zeroth-order Algorithm for Stochastic Distributed Nonconvex Optimization"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Shengjun Zhang
-- Colleen Bailey
+- Colleen P. Bailey
 
 # Author notes (optional)
 author_notes:
 - ""
 - ""
 
-date: "2021-09-01T00:00:00Z"
+date: "2021-12-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,10 +26,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Data Science and Computer Application (Under Review)*
-publication_short: In *ICDSCA (Under Review)*
+publication: In *2022 American Control Conference (Under Review)*
+publication_short: In *2022 ACC (Under Review)*
 
-abstract: This paper investigates the problem of sparse principal component analysis (SPCA), which is an extension of principal component analysis (PCA) for a sparser subspace of the original data. We propose a fully decentralized algorithm based on primal-dual technique to solve SPCA in a distributed manner. The proposed algorithm has the ability to handle massively large datasets stored in multiple machines. The proposed method is shown to converge to stationary solutions of SPCA. Numerical experiments are provided to demonstrate the efficacy of our distributed primal-dual approach.
+abstract: This paper investigates how to accelerate the convergence of distributed optimization algorithms on nonconvex problems with zeroth-order information available only. We propose a zeroth-order (ZO) distributed primal-dual stochastic coordinates algorithm equipped with "powerball" method to accelerate. We prove that the proposed algorithm has a convergence rate of $\mathcal{O}(\sqrt{p}/\sqrt{nT})$ for general nonconvex cost functions. We consider solving the generation of adversarial examples from black-box DNNs problem to compare with the existing state-of-the-art centralized and distributed ZO algorithms. The numerical results demonstrate the faster convergence rate of the proposed algorithm and match the theoretical analysis.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2109.03224.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
