@@ -17,7 +17,7 @@ author_notes:
 - ""
 
 date: "2020-12-14T00:00:00Z"
-doi: ""
+doi: "10.1109/CDC42340.2020.9304381"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-14T00:00:00Z"

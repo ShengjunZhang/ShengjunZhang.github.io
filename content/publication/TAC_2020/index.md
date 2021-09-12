@@ -17,7 +17,7 @@ author_notes:
 - ""
 
 date: "2021-08-01T00:00:00Z"
-doi: ""
+doi: "10.1109/TAC.2021.3108501"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-22T00:00:00Z"
@@ -29,8 +29,8 @@ publishDate: "2021-08-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Automatic Control (To appear 2022)*
-publication_short: In *IEEE TAC (To appear 2022)*
+publication: In *IEEE Transactions on Automatic Control*
+publication_short: In *IEEE TAC*
 
 abstract: This paper considers the distributed nonconvex optimization problem of minimizing a global cost function formed by a sum of local cost functions by using local information exchange.  We first propose a distributed first-order primal-dual algorithm. We show that it converges sublinearly to a stationary point if each local cost function is smooth and linearly to a global optimum under an additional condition that the global cost function satisfies the Polyak-{\L}ojasiewicz condition. This condition is weaker than strong convexity, which is a standard condition for proving linear convergence of distributed optimization algorithms, and the global minimizer is not necessarily unique. Motivated by the situations where the gradients are unavailable, we then propose a distributed  zeroth-order algorithm, derived from the proposed distributed first-order algorithm by using a deterministic gradient estimator, and show that it has the same convergence properties as the proposed first-order algorithm  under the same conditions. The theoretical results are illustrated by numerical simulations.
 
@@ -49,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/1912.12110.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/document/9535301'
 url_code: 'https://github.com/ShengjunZhang/DBC'
 url_dataset: ''
 url_poster: ''
