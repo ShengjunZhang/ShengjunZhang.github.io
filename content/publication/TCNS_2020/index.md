@@ -1,5 +1,5 @@
 ---
-title: "Sublinear and Linear Convergence of ADMM for Distributed Nonconvex Optimization"
+title: "Sublinear and Linear Convergence of Modified ADMM for Distributed Nonconvex Optimization"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
