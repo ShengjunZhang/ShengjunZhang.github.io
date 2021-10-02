@@ -26,8 +26,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2021 IEEE Symposium Series on Computational Intelligence (Under Review)*
-publication_short: In *IEEE SSCI 2021 (Under Review)*
+publication: In *2021 IEEE Symposium Series on Computational Intelligence*
+publication_short: In *IEEE SSCI 2021*
 
 abstract: This paper investigates how to accelerate the convergence of distributed optimization algorithms on nonconvex problems. We propose a distributed primal-dual stochastic gradient descent(SGD) equipped with "powerball" method to accelerate. We show that the proposed algorithm achieves the linear speedup convergence rate $\mathcal{O}(1/\sqrt{nT})$ for general smooth (possibly nonconvex) cost functions. We demonstrate the efficiency of the considered algorithm through numerical experiments where we train two-layer fully connected neural networks and convolutional neural networks on MNIST dataset to compare with the state-of-the-art distributed SGD algorithms and centralized SGD algorithms.
 
