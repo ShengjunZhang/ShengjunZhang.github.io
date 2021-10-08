@@ -13,9 +13,9 @@ subtitle = ""
 weight = 60
 
 +++
-
-Sometimes I am a volunteer teaching assistant.
-
+- EENG 3510: Electronics I (Fall 2021, Instructor: [Dr. Shuping Wang](https://electrical.engineering.unt.edu/people/shuping-wang))
+- EENG 3520: Electronics II (Fall 2021, Instructor: [Dr. Shuping Wang](https://electrical.engineering.unt.edu/people/shuping-wang))
+- EENG 3920: Modern Communication System Design Project (Fall 2021, Instructor: [Dr. Shuping Wang](https://electrical.engineering.unt.edu/people/shuping-wang))
 - EENG 5940: Optimization Theory (Fall 2020, Instructor: [Dr. Colleen Bailey](https://electrical.engineering.unt.edu/people/colleen-bailey))
 - EENG 2620: Signals and Systems (Spring 2019, Fall 2018, Instructor: [Dr. Tao Yang](https://tyang1188.github.io/index.html))
 - EENG 5940: Power System & Optimization (Fall 2018, Instructor: [Dr. Tao Yang](https://tyang1188.github.io/index.html))
