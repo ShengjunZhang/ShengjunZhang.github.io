@@ -13,7 +13,7 @@ location: Online
 #   country: United States
 
 summary:
-abstract: This paper investigates the stochastic distributed nonconvex optimiztion problem of minimizing a global cost function formed by the summation of $n$ local cost functions. We solve such a problem with involving zeroth-order (ZO) information exchange. In this paper, we propose a ZO distributed primal--dual coordinate method (ZODIAC) to solve the stochastic optimization problem. Agents approximate their own local stochastic ZO oracle along coordinates with an adaptive smoothing parameter. We show that the proposed algorithm achieves the convergence rate of $\mathcal{O}(\sqrt{p}/\sqrt{nT})$ for genernal nonconvex cost functions. We demonstrate the efficiency of proposed algorithms through numerical example in comparison with the existing state-of-the art centralized and distributed ZO algorithms.
+abstract: This paper investigates the stochastic distributed nonconvex optimiztion problem of minimizing a global cost function formed by the summation of $n$ local cost functions. We solve such a problem with involving zeroth-order (ZO) information exchange. In this paper, we propose a ZO distributed primal--dual coordinate method (ZODIAC) to solve the stochastic optimization problem. Agents approximate their own local stochastic ZO oracle along coordinates with an adaptive smoothing parameter. We show that the proposed algorithm achieves the convergence rate of $\mathcal{O}(\sqrt{p}/\sqrt{T})$ for genernal nonconvex cost functions. We demonstrate the efficiency of proposed algorithms through numerical example in comparison with the existing state-of-the art centralized and distributed ZO algorithms.
 
 
 # Talk start and end times.
