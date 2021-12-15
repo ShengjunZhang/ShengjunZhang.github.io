@@ -13,6 +13,9 @@ subtitle = ""
 weight = 60
 
 +++
+---
+Teaching Experience
+
 - EENG 3510: Electronics I (Fall 2021, Instructor: [Dr. Shuping Wang](https://electrical.engineering.unt.edu/people/shuping-wang))
 - EENG 3520: Electronics II (Fall 2021, Instructor: [Dr. Shuping Wang](https://electrical.engineering.unt.edu/people/shuping-wang))
 - EENG 3920: Modern Communication System Design Project (Fall 2021, Instructor: [Dr. Shuping Wang](https://electrical.engineering.unt.edu/people/shuping-wang))
@@ -41,4 +44,4 @@ Conference Reviewer
 ---
 Conference Chair
 
-- Co-Chair (Substitute Dr. Tao Yang) of Distributed Optimization and Learning for Networked Systems II at [CDC 2021](https://cdc2021.ieeecss.org/)
+- Co-Chair (Substitute Dr. Tao Yang) of Distributed Optimization and Learning for Networked Systems II Session at [CDC 2021](https://cdc2021.ieeecss.org/)
