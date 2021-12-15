@@ -37,3 +37,8 @@ Conference Reviewer
 - [American Control Conference (ACC)](http://acc2020.a2c2.org/)
 - [IEEE International Conference on Control and Automation (ICCA)](http://www.ieee-icca.org/)
 - [Chinese Control Conference (CCC)](http://www.ccc2019.cn/en/index.html)
+
+---
+Conference Chair
+
+- Co-Chair (Substitute Dr. Tao Yang) of Distributed Optimization and Learning for Networked Systems II at [CDC 2021](https://cdc2021.ieeecss.org/)
