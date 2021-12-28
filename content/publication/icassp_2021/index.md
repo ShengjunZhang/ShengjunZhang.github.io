@@ -14,7 +14,7 @@ author_notes:
 - ""
 
 date: "2021-09-01T00:00:00Z"
-doi: ""
+doi: "10.1109/ICDSCA53499.2021.9650142"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9650142'
 url_code: ''
 url_dataset: ''
 url_poster: ''
