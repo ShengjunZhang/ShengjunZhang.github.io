@@ -1,27 +1,26 @@
 ---
-title: "Distributed Zeroth-order Stochastic Coordinate Methods"
+title: "Communication Compression for Decentralized Nonconvex Optimization"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Xinlei Yi
 - Shengjun Zhang
-- Yunlong Dong
-- Dong Xie
-- Lisha Yao
-- Colleen P. Bailey
-- Shengli Fu
+- Tao Yang
+- Tianyou Chai
+- Karl H. Johansson
 
 # Author notes (optional)
 author_notes:
 - ""
 - ""
 
-date: "2022-01-16T00:00:00Z"
+date: "2022-01-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-16T00:00:00Z"
+publishDate: "2022-01-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,12 +29,10 @@ publishDate: "2022-01-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Signal Processing (In Submission)*
-publication_short: In *IEEE TSP (In Submission)*
+publication: In *IEEE Transactions on Automatic Control (In Submission)*
+publication_short: In *IEEE TAC (In Submission)*
 
-abstract: This paper investigates the stochastic distributed nonconvex optimiztion problem of minimizing a global cost function formed by the summation of $n$ local cost functions. We solve such a problem with involving zeroth-order (ZO) information exchange. In this paper, two distributed ZO algorithms are proposed. Agents sample their own local stochastic ZO oracle at two different points with an adaptive smoothing parameter.
-
-
+abstract: This paper considers decentralized nonconvex optimization with the cost functions being distributed over agents. Noting that information compression is a key tool to reduce the heavy communication load for decentralized algorithms as agents iteratively communicate with neighbors, we propose three decentralized primal--dual algorithms with compressed communication. The first two algorithms are applicable to a general class of compressors with bounded relative compression error and the third algorithm is suitable for two general classes of  compressors with bounded absolute compression error. We show that the proposed decentralized algorithms with compressed communication have comparable convergence properties as state-of-the-art algorithms without communication compression. Specifically, we show that they can find first-order stationary points with sublinear convergence rate $\mathcal{O}(1/T)$ when each local cost function is smooth, where $T$ is the total number of iterations, and find global optima with linear convergence rate under an additional condition that the global cost function satisfies the Polyak--{\L}ojasiewicz condition. Numerical simulations are provided to illustrate the effectiveness of the theoretical results.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -50,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2201.03930.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
