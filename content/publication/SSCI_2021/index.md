@@ -14,7 +14,7 @@ author_notes:
 - ""
 
 date: "2021-12-14T00:00:00Z"
-doi: ""
+doi: "10.1109/SSCI50451.2021.9660023"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2108.06050.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9660023'
 url_code: ''
 url_dataset: ''
 url_poster: ''
