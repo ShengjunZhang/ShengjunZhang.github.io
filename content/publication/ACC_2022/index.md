@@ -13,7 +13,7 @@ author_notes:
 - ""
 - ""
 
-date: "2021-12-15T00:00:00Z"
+date: "2022-01-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,8 +26,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2022 American Control Conference (Under Review)*
-publication_short: In *2022 ACC (Under Review)*
+publication: In *2022 American Control Conference*
+publication_short: In *2022 ACC*
 
 abstract: This paper investigates how to accelerate the convergence of distributed optimization algorithms on nonconvex problems with zeroth-order information available only. We propose a zeroth-order (ZO) distributed primal-dual stochastic coordinates algorithm equipped with "powerball" method to accelerate. We prove that the proposed algorithm has a convergence rate of $\mathcal{O}(\sqrt{p}/\sqrt{nT})$ for general nonconvex cost functions. We consider solving the generation of adversarial examples from black-box DNNs problem to compare with the existing state-of-the-art centralized and distributed ZO algorithms. The numerical results demonstrate the faster convergence rate of the proposed algorithm and match the theoretical analysis.
 
