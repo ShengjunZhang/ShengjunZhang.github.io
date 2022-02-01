@@ -6,7 +6,7 @@ title: "Obstacle Avoidance and Navigation Utilizing Reinforcement Learning with 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Shengjun Zhang
-- Colleen Bailey
+- Colleen P. Bailey
 
 # Author notes (optional)
 author_notes:
