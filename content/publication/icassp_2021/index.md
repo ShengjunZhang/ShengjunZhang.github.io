@@ -6,7 +6,7 @@ title: "A Primal-Dual Algorithm for Distributed Sparse Principal Component Analy
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Shengjun Zhang
-- Colleen Bailey
+- Colleen P. Bailey
 
 # Author notes (optional)
 author_notes:
@@ -27,7 +27,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Data Science and Computer Application*
-publication_short: In *ICDSCA*
+publication_short: In *ICDSCA 2021*
 
 abstract: This paper investigates the problem of sparse principal component analysis (SPCA), which is an extension of principal component analysis (PCA) for a sparser subspace of the original data. We propose a fully decentralized algorithm based on primal-dual technique to solve SPCA in a distributed manner. The proposed algorithm has the ability to handle massively large datasets stored in multiple machines. The proposed method is shown to converge to stationary solutions of SPCA. Numerical experiments are provided to demonstrate the efficacy of our distributed primal-dual approach.
 
