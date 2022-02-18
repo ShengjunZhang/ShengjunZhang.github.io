@@ -27,13 +27,13 @@ education:
   courses:
   - course: Ph.D in Electrical Engineering
     institution: University of North Texas
-    year: 2022
+    year: May 2022
   - course: M.S in Electrical Engineering
     institution: New York University
-    year: 2017
+    year: January 2017
   - course: B.S in Electrical Engineering
     institution: China Agricultural University
-    year: 2014
+    year: June 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
