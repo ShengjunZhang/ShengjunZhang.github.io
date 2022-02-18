@@ -14,8 +14,10 @@ weight = 60
 
 +++
 ---
-Teaching Experience
-
+Teaching Assistant Experience
+- EENG 5810: Digital Communications (Spring 2022, Instructor: [Dr. Hua Sun](https://electrical.engineering.unt.edu/people/hua-sun))
+- EENG 3510: Electronics I (Spring 2022, Instructor: [Dr. Shuping Wang](https://electrical.engineering.unt.edu/people/shuping-wang))
+- EENG 3920: Modern Communication System Design Project (Spring 2022, Instructor: [Dr. Shuping Wang](https://electrical.engineering.unt.edu/people/shuping-wang))
 - EENG 3510: Electronics I (Fall 2021, Instructor: [Dr. Shuping Wang](https://electrical.engineering.unt.edu/people/shuping-wang))
 - EENG 3520: Electronics II (Fall 2021, Instructor: [Dr. Shuping Wang](https://electrical.engineering.unt.edu/people/shuping-wang))
 - EENG 3920: Modern Communication System Design Project (Fall 2021, Instructor: [Dr. Shuping Wang](https://electrical.engineering.unt.edu/people/shuping-wang))

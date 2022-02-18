@@ -6,7 +6,7 @@ title: Shengjun(Daniel) Zhang
 superuser: true
 
 # Role/position/tagline
-role:  Ph.D. Candidate in Electrical Engineering
+role:  Ph.D. in Electrical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,7 +27,7 @@ education:
   courses:
   - course: Ph.D in Electrical Engineering
     institution: University of North Texas
-    year: in progress
+    year: 2022
   - course: M.S in Electrical Engineering
     institution: New York University
     year: 2017
@@ -70,7 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Daniel is a Ph.D. candidate at {{< staticref "https://www.unt.edu/" "newtab" >}}University of North Texas{{< /staticref >}}, advised by Dr. {{< staticref "https://electrical.engineering.unt.edu/people/colleen-bailey" "newtab" >}}Colleen Bailey{{< /staticref >}} since 2019 summer and affiliated with Optimization, Signal, Control, and Algorithms Research (OSCAR Lab). Before joining OSCAR Lab, since 2018 he had been fortunate to work with Dr. {{< staticref "https://tyang1188.github.io/index.html" "newtab" >}}Tao Yang{{< /staticref >}} before he left UNT for one year and a half.
+Daniel receieved his Ph.D. degree from {{< staticref "https://www.unt.edu/" "newtab" >}}University of North Texas{{< /staticref >}} in 2022, advised by Dr. {{< staticref "https://electrical.engineering.unt.edu/people/colleen-bailey" "newtab" >}}Colleen Bailey{{< /staticref >}}.
+He's been affiliated with Optimization, Signal, Control, and Algorithms Research (OSCAR Lab) since 2019 summer. Before joining OSCAR Lab, since 2018 he had been fortunate to work with Dr. {{< staticref "https://tyang1188.github.io/index.html" "newtab" >}}Tao Yang{{< /staticref >}} before he left UNT for one year and a half.
 
 Before coming to UNT, he received a Master's degree in Electrical Engineering at {{< staticref "https://www.nyu.edu/" "newtab" >}}New York University{{< /staticref >}} in 2017, where he worked with Dr. {{< staticref "https://engineering.nyu.edu/faculty/farshad-khorrami" "newtab" >}}Farshad Khorrami{{< /staticref >}}. He received a Bachelor's degree with honor in Automation of Honors Program at {{< staticref "https://www.cau.edu.cn/" "newtab" >}}China Agricultural University{{< /staticref >}} in 2014, where he worked with Dr. {{< staticref "http://faculty.cau.edu.cn/xxdqxy/ljh_en_6333/list.htm" "newtab" >}}Jianhan Lin{{< /staticref >}} and Dr. {{< staticref "http://faculty.cau.edu.cn/xxdqxy/ll_7519/list.htm" "newtab" >}}Li Li{{< /staticref >}}.
 
