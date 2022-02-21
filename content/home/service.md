@@ -30,6 +30,7 @@ Journal Reviewer
 - [IEEE Transactions on Automatic Control](http://ieeecss.org/publication/transactions-automatic-control)
 - [IEEE Transactions on Transactions on Control of Network Systems](http://ieeecss.org/publication/transactions-control-network-systems)
 - [IEEE Transactions on Industrial Electronics](http://www.ieee-ies.org/pubs/transactions-on-industrial-electronics)
+- [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
 - [Neurocomputing](https://www.journals.elsevier.com/neurocomputing)
 - [IET Control Theory & Applications](https://digital-library.theiet.org/content/journals/iet-cta)
 - [Automatica](https://www.journals.elsevier.com/automatica)
