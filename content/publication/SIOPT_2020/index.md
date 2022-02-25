@@ -16,7 +16,7 @@ author_notes:
 - ""
 - ""
 
-date: "2022-01-07T00:00:00Z"
+date: "2022-02-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,8 +29,8 @@ publishDate: "2022-01-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE/CAA Journal of Automatica Sinica (Under Review)*
-publication_short: In *IEEE-JAS  (Under Review)*
+publication: In *IEEE/CAA Journal of Automatica Sinica*
+publication_short: In *IEEE-JAS*
 
 abstract:   The distributed nonconvex optimization problem of minimizing a global cost function formed by a sum of $n$ local cost functions by using local information exchange is considered. This problem is an important component of many machine learning techniques with data parallelism, such as deep learning and federated learning. We propose a distributed primal-dual stochastic gradient descent (SGD) algorithm,  suitable for arbitrarily connected communication networks and any smooth (possibly nonconvex) cost functions. We show that the proposed algorithm achieves the linear speedup convergence rate $\mathcal{O}(1/\sqrt{nT})$ for general nonconvex cost functions and  the linear speedup convergence rate $\mathcal{O}(1/(nT))$ when the global cost function satisfies the Polyak-Lojasiewicz (P-L) condition, where $T$ is the total number of iterations. We also show that the output of the proposed algorithm with fixed parameters linearly converges to a neighborhood of a global optimum. We demonstrate through numerical experiments the efficiency of our algorithm in comparison with the baseline centralized SGD and recently proposed distributed SGD algorithms.
 
