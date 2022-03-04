@@ -15,7 +15,7 @@ author_notes:
 - ""
 - ""
 
-date: "2022-02-23T00:00:00Z"
+date: "2022-03-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,8 +28,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IFAC Automatica (Provisionally Accepted)*
-publication_short: In *Automatica (Provisionally Accepted)*
+publication: In *IFAC Automatica*
+publication_short: In *Automatica*
 
 abstract: In this paper, we consider stochastic distributed nonconvex optimization with the cost functions be distributed over $n$ agents and only zeroth-order (ZO) information feedback, which emerges in many machine learning applications. We propose two distributed ZO algorithms to solve this problem. In both algorithms, at each iteration each agent samples its local stochastic ZO oracle at two different points with an adaptive smoothing parameter. We show that the proposed algorithms achieve the linear speedup convergence rate $\mathcal{O}(\sqrt{p/(nT)})$ for smooth cost functions and an $\mathcal{O}(p/(nT))$ convergence rate when the global cost function satisfies the Polyak-Lojasiewicz (P-L) condition in addition, where $p$ and $T$ are the dimension of the decision variable and the total number of iterations, respectively. To the best of our knowledge, this is the first linear speedup result for distributed ZO algorithms, which enables us to scale out the computing capability by adding more agents. We also show that the proposed algorithms converge linearly when considering deterministic centralized optimization problems under the P-L condition. We demonstrate through numerical experiments the efficiency of our algorithms in comparison with the baseline and recently proposed centralized and distributed ZO algorithms.
 
