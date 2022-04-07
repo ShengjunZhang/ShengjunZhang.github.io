@@ -1,23 +1,19 @@
 ---
-title: "Distributed Zeroth-order Stochastic Coordinate Methods"
+title: "Zeroth-Order Stochastic Coordinate Methods for Decentralized Non-convex Optimization"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Shengjun Zhang
-- Yunlong Dong
-- Dong Xie
-- Lisha Yao
 - Colleen P. Bailey
-- Shengli Fu
 
 # Author notes (optional)
 author_notes:
 - ""
 - ""
 
-date: "2022-02-25T00:00:01Z"
+date: "2022-04-07T00:00:01Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,10 +26,10 @@ publishDate: "2022-01-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Signal Processing (In Submission)*
-publication_short: In *IEEE TSP (In Submission)*
+publication: In *IEEE Signal Processing Letters(In Submission)*
+publication_short: In *IEEE L-SP (In Submission)*
 
-abstract: This paper investigates the stochastic distributed nonconvex optimiztion problem of minimizing a global cost function formed by the summation of $n$ local cost functions. We solve such a problem with involving zeroth-order (ZO) information exchange. In this paper, two distributed ZO algorithms are proposed. Agents sample their own local stochastic ZO oracle at two different points with an adaptive smoothing parameter.
+abstract: In this letter, we first propose a Zeroth-Order cOordinate Method (ZOOM) to solve the stochastic optimization problem over a decentralized network with only zeroth-order (ZO) oracle feedback available. Moreover, we equip a simple mechanism "powerball" to ZOOM and propose ZOOM-PB to accelerate the convergence of ZOOM. Compared with the existing methods, we verify the proposed algorithms through two benchmark examples in the literature, namely the black-box binary classification and the generating adversarial examples from black-box DNNs in order to compare with the existing state-of-the-art centralized and distributed ZO algorithms. The numerical results demonstrate a faster convergence rate of the proposed algorithms.
 
 
 
