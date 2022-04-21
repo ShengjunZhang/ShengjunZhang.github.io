@@ -10,8 +10,8 @@ role:  Ph.D. in Electrical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of North Texas
-  url: https://www.unt.edu/
+- name: Huazhong University of Science and Technology
+  url: http://aia.hust.edu.cn/bksjy/zlgc.htm
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed optimization, statistical learning and control theory.
