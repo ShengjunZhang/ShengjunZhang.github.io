@@ -17,7 +17,7 @@ author_notes:
 - ""
 
 date: "2022-02-25T00:00:00Z"
-doi: ""
+doi: "10.1109/JAS.2022.105554"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-07T00:00:00Z"
@@ -49,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2006.03474.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9763468'
 url_code: ''
 url_dataset: ''
 url_poster: ''
