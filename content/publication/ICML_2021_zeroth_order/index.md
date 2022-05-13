@@ -16,7 +16,7 @@ author_notes:
 - ""
 
 date: "2022-03-03T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.automatica.2022.110353"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2106.02958.pdf'
+url_pdf: 'https://doi.org/10.1016/j.automatica.2022.110353'
 url_code: ''
 url_dataset: ''
 url_poster: ''
