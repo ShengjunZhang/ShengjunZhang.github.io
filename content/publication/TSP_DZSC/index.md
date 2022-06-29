@@ -6,7 +6,9 @@ title: "Zeroth-Order Stochastic Coordinate Methods for Decentralized Non-convex 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Shengjun Zhang
-- Colleen P. Bailey
+- Tan Shen
+- Yunlong Dong
+- Heng Zhang
 
 # Author notes (optional)
 author_notes:

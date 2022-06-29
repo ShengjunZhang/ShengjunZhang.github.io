@@ -17,10 +17,10 @@ author_notes:
 - ""
 
 date: "2022-04-30T00:00:00Z"
-doi: ""
+doi: "10.1109/TCNS.2022.3186653"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-10-15T00:00:00Z"
+publishDate: "2022-06-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
