@@ -13,8 +13,8 @@ author_notes:
 - ""
 - ""
 
-date: "2022-01-31T00:00:00Z"
-doi: ""
+date: "2022-06-10T00:00:00Z"
+doi: "10.23919/ACC53348.2022.9867306"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
