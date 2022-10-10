@@ -23,6 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Postdoctoral Researcher
+    company: Huazhong University of Science and Technology
+    company_url: 'https://www.hust.edu.cn/'
+    location: Wuhan, Hubei, China
+    date_start: '2022-05-20'
+    date_end: '2022-09-20'
+    description: |1-
+        Responsibilities include:
+        
+        * Artificial Intelligence on Healthcare
+
   - title: Research Scientist Intern
     company: Pacific Northwest National Laboratory
     company_url: 'https://www.pnnl.gov'
