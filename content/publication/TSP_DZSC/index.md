@@ -15,21 +15,21 @@ author_notes:
 - ""
 - ""
 
-date: "2022-05-01T00:00:01Z"
+date: "2022-11-16T00:00:01Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-16T00:00:00Z"
+publishDate: "2022-11-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Signal Processing Letters(In Submission)*
-publication_short: In *IEEE L-SP (In Submission)*
+publication: In *IEEE International Conference on Acoustics, Speech, and Signal Processing (Under Review)*
+publication_short: In *IEEE ICASSP (Under Review)*
 
 abstract: In this letter, we first propose a Zeroth-Order cOordinate Method (ZOOM) to solve the stochastic optimization problem over a decentralized network with only zeroth-order (ZO) oracle feedback available. Moreover, we equip a simple mechanism "powerball" to ZOOM and propose ZOOM-PB to accelerate the convergence of ZOOM. Compared with the existing methods, we verify the proposed algorithms through two benchmark examples in the literature, namely the black-box binary classification and the generating adversarial examples from black-box DNNs in order to compare with the existing state-of-the-art centralized and distributed ZO algorithms. The numerical results demonstrate a faster convergence rate of the proposed algorithms.
 
