@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Postdoctoral Researcher
+  - title: Researcher
     company: Huazhong University of Science and Technology
     company_url: 'https://www.hust.edu.cn/'
     location: Wuhan, Hubei, China
